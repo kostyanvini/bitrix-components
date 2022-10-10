@@ -1,0 +1,4 @@
+<?
+$MESS['COMPONENT_DESCRIPTION_COUNTDOWN_NAME'] = "Таймер обратного отсчета";
+$MESS['COMPONENT_DESCRIPTION_COUNTDOWN_NAMESPACE'] = "Компонент";
+?>
